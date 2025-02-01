@@ -1,4 +1,4 @@
-# 61a
+# 61a: The Structure and Interpretation of Computer Programs
 
 UC Berkeley
 
